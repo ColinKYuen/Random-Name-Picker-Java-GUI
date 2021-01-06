@@ -11,6 +11,7 @@ Given a list, this program will randomize the order and display one at a time. U
 ## Getting started
 Prerequisites:
 - Latest Windows 10 (All other versions are untested)
+- Latest Java 8 (All other versions are untested)
 
 ## Limitations
 - Too many names and the program may not display them all unless manually resized
